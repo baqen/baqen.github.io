@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://baqen.github.io/fwh/sitemap.fwh.gz
